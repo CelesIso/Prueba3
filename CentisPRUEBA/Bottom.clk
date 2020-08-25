@@ -1,0 +1,31 @@
+30 256 256
+55 231 143 21 SetString "Property Name" Limb "Set To" a
+55 231 143 21 SetString "Property Name" "Tile List" "Set To" "C_W C_U C_N C_A C_Z C_Y C_M C_X C_C C_O C_D C_E C_P C_K C_R C_S C_J C_B C_H C_V C_Q C_I C_F C_L C_G C_T T1eni T2eni T3eni T4eni T5eni T6eni T7eni T8eni T4charlie"
+55 231 143 21 Animate "Frame List" colors12s*.mov
+55 206 143 21 SetString "Property Name" Limb "Set To" f
+55 206 143 21 SetString "Property Name" "Tile List" "Set To" "C_W C_U C_N C_A C_Z C_Y C_M C_X C_C C_O C_D C_E C_P C_K C_R C_S C_J C_B C_H C_V C_Q C_I C_F C_L C_G C_T T1eni T2eni T3eni T4eni T5eni T6eni T7eni T8eni T4charlie"
+55 206 143 21 Animate "Frame List" colors13s*.mov
+55 181 143 21 SetString "Property Name" Limb "Set To" b
+55 181 143 21 SetString "Property Name" "Tile List" "Set To" "C_W C_U C_N C_A C_Z C_Y C_M C_X C_C C_O C_D C_E C_P C_K C_R C_S C_J C_B C_H C_V C_Q C_I C_F C_L C_G C_T T1eni T2eni T3eni T4eni T5eni T6eni T7eni T8eni T4charlie"
+55 181 143 21 Animate "Frame List" colors14s*.mov
+55 156 143 21 SetString "Property Name" Limb "Set To" c
+55 156 143 21 SetString "Property Name" "Tile List" "Set To" "C_W C_U C_N C_A C_Z C_Y C_M C_X C_C C_O C_D C_E C_P C_K C_R C_S C_J C_B C_H C_V C_Q C_I C_F C_L C_G C_T T1eni T2eni T3eni T4eni T5eni T6eni T7eni T8eni T4charlie"
+55 156 143 21 Animate "Frame List" colors15s*.mov
+55 131 143 21 SetString "Property Name" Limb "Set To" d
+55 131 143 21 SetString "Property Name" "Tile List" "Set To" "C_W C_U C_N C_A C_Z C_Y C_M C_X C_C C_O C_D C_E C_P C_K C_R C_S C_J C_B C_H C_V C_Q C_I C_F C_L C_G C_T T1eni T2eni T3eni T4eni T5eni T6eni T7eni T8eni T4charlie"
+55 131 143 21 Animate "Frame List" colors16s*.mov
+55 106 143 21 SetString "Property Name" Limb "Set To" e
+55 106 143 21 SetString "Property Name" "Tile List" "Set To" "C_W C_U C_N C_A C_Z C_Y C_M C_X C_C C_O C_D C_E C_P C_K C_R C_S C_J C_B C_H C_V C_Q C_I C_F C_L C_G C_T T1eni T2eni T3eni T4eni T5eni T6eni T7eni T8eni T4charlie"
+55 106 143 21 Animate "Frame List" colors21s*.mov
+55 81 143 21 SetString "Property Name" Limb "Set To" O
+55 81 143 21 SetString "Property Name" "Tile List" "Set To" "C_W C_U C_N C_A C_Z C_Y C_M C_X C_C C_O C_D C_E C_P C_K C_R C_S C_J C_B C_H C_V C_Q C_I C_F C_L C_G C_T T1eni T2eni T3eni T4eni T5eni T6eni T7eni T8eni T4charlie"
+55 81 143 21 Animate "Frame List" colors22s*.mov
+55 56 143 21 SetString "Property Name" Limb "Set To" V
+55 56 143 21 SetString "Property Name" "Tile List" "Set To" "C_W C_U C_N C_A C_Z C_Y C_M C_X C_C C_O C_D C_E C_P C_K C_R C_S C_J C_B C_H C_V C_Q C_I C_F C_L C_G C_T T1eni T2eni T3eni T4eni T5eni T6eni T7eni T8eni T4charlie"
+55 56 143 21 Animate "Frame List" colors23s*.mov
+55 31 143 21 SetString "Property Name" Limb "Set To" K
+55 31 143 21 SetString "Property Name" "Tile List" "Set To" "C_W C_U C_N C_A C_Z C_Y C_M C_X C_C C_O C_D C_E C_P C_K C_R C_S C_J C_B C_H C_V C_Q C_I C_F C_L C_G C_T T1eni T2eni T3eni T4eni T5eni T6eni T7eni T8eni T4charlie"
+55 31 143 21 Animate "Frame List" colors24s*.mov
+55 6 143 21 SetString "Property Name" Limb "Set To" Y
+55 6 143 21 SetString "Property Name" "Tile List" "Set To" "C_W C_U C_N C_A C_Z C_Y C_M C_X C_C C_O C_D C_E C_P C_K C_R C_S C_J C_B C_H C_V C_Q C_I C_F C_L C_G C_T T1eni T2eni T3eni T4eni T5eni T6eni T7eni T8eni T4charlie"
+55 6 143 21 Animate "Frame List" colors25s*.mov

@@ -1,0 +1,71 @@
+# Output from 3DSMax RenderWare File Export plug-in V1.0
+ModelBegin
+    ClumpBegin
+        # Box01
+        
+        TransformBegin
+            Transform  1.000000  0.000000  0.000000  0.000000  0.000000  1.000000  0.000000  0.000000  0.000000  0.000000  1.000000  0.000000  0.000000  0.000000  0.000000  1.000000
+            
+            ClumpBegin
+                Tag 1
+                Hints NULL
+                
+                
+            ClumpEnd
+        TransformEnd
+        # side01
+        
+        TransformBegin
+            Transform  1.000000  0.000000  0.000000  0.000000  0.000000  1.000000  0.000000  0.000000  0.000000  0.000000  1.000000  0.000000  0.000000  0.000000  0.000000  1.000000
+            
+            ClumpBegin
+                Tag 2
+                Hints NULL
+                Vertex  0.000000  0.000000  2.500000 UV  0.067268  0.994831
+                Vertex  10.000000  0.000000  2.500000 UV  4.331079  1.004163
+                Vertex  0.000000  0.250000  2.500000 UV  0.065845  0.814513
+                Vertex  10.000000  0.250000  2.500000 UV  4.328233  0.827485
+                
+                GeometrySampling Solid
+                LightSampling Vertex
+                Ambient  0.1 0.158168 0.181698
+                Color 0.192157 0.47451 0.545098
+                Diffuse 0.192157 0.47451 0.545098
+                Specular  0.9  0.9  0.9
+                TextureModes Foreshorten
+                Texture roofedge.bmp
+                
+                Triangle 1 2 4
+                Triangle 4 3 1
+                
+            ClumpEnd
+        TransformEnd
+        # roof01
+        
+        TransformBegin
+            Transform  1.000000  0.000000  0.000000  0.000000  0.000000  1.000000  0.000000  0.000000  0.000000  0.000000  1.000000  0.000000  0.000000  0.000000  0.000000  1.000000
+            
+            ClumpBegin
+                Tag 3
+                Hints NULL
+                Vertex  0.000000  0.250000  2.500000 UV  0.001998  0.999500
+                Vertex  10.000000  0.250000  2.500000 UV  3.998002  0.999501
+                Vertex  0.000000  1.500000 -0.000000 UV  0.001998  0.000499
+                Vertex  10.000000  1.500000 -0.000000 UV  3.998002  0.000500
+                
+                GeometrySampling Solid
+                LightSampling Vertex
+                Ambient 0.181698  0.1 0.172547
+                Color 0.545098 0.192157 0.517647
+                Diffuse 0.545098 0.192157 0.517647
+                Specular  0.9  0.9  0.9
+                TextureModes Foreshorten
+                Texture tileroof.bmp
+                
+                Triangle 1 2 4
+                Triangle 4 3 1
+                
+            ClumpEnd
+        TransformEnd
+    ClumpEnd
+ModelEnd

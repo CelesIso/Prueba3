@@ -1,0 +1,9 @@
+8
+117 65 41 41 Worlds_Store -world:store
+52 0 56 21 Worlds_Center -home:WorldsChat/hub22.world#hub_center@1837.0,1838.0,150.0,0.0,0.0,0.0,-1.0
+0 0 42 33 Avatar_Gallery -home:centis/centisavatar.world#AVATARgallery@78.0,201.0,150.0,90.0,0.0,0.0,-1.0
+0 75 31 36 Chat_Deck -home:WorldsChat/hubtoo.world#hupns@22.0,-39.0,150.0,321.0,0.0,0.0,-1.0
+117 0 41 28 Home -world:
+34 104 58 22 Animal_House -home:/AnimalHouse/AnimalHouse.world#FrontYard@191.0,173.0,150.0,45.0,0.0,0.0,-1.0
+97 104 61 18 Club -home:AnimalHouse/AHclub.world#CLUB@507.0,699.0,150.0,49.0,0.0,0.0,-1.0
+0 37 39 24 Meteor -home:Meteor/meteor.world#meteor01@1001.0,2659.0,150.0,165.0,0.0,0.0,-1.0

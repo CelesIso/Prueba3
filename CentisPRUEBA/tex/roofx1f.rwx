@@ -1,0 +1,218 @@
+# Output from 3DSMax RenderWare File Export plug-in V1.0
+ModelBegin
+    ClumpBegin
+        # Box02
+        
+        TransformBegin
+            Transform  1.000000  0.000000  0.000000  0.000000  0.000000  1.000000  0.000000  0.000000  0.000000  0.000000  1.000000  0.000000  0.000000  0.000000  0.000000  1.000000
+            
+            ClumpBegin
+                Tag 1
+                Hints NULL
+                
+                
+            ClumpEnd
+        TransformEnd
+        # FrontSide01
+        
+        TransformBegin
+            Transform  1.000000  0.000000  0.000000  0.000000  0.000000  1.000000  0.000000  0.000000  0.000000  0.000000  1.000000  0.000000  0.000000  0.000000  0.000000  1.000000
+            
+            ClumpBegin
+                Tag 2
+                Hints NULL
+                Vertex  0.000000  0.000000  2.500000 UV  0.083062  0.999748
+                Vertex  3.750000  0.000000  2.500000 UV  1.291531  0.999749
+                Vertex  7.500000  0.000000  2.500000 UV  2.500000  0.999749
+                Vertex  11.250000  0.000000  2.500000 UV  3.708469  0.999750
+                Vertex  15.000000  0.000000  2.500000 UV  4.916938  0.999750
+                Vertex -0.250000  0.750000  2.750000 UV  0.002497  0.500250
+                Vertex  3.750000  0.250000  2.500000 UV  1.291531  0.833249
+                Vertex  7.500000  0.250000  2.500000 UV  2.500000  0.833250
+                Vertex  11.250000  0.250000  2.500000 UV  3.708469  0.833250
+                Vertex  15.250000  0.750000  2.750000 UV  4.997502  0.500252
+                
+                GeometrySampling Solid
+                LightSampling Vertex
+                Ambient 0.181698  0.1 0.172547
+                Color 0.545098 0.192157 0.517647
+                Diffuse 0.545098 0.192157 0.517647
+                Specular  0.9  0.9  0.9
+                TextureModes Foreshorten
+                Texture roofedge.cmp
+                
+                Triangle 1 2 7
+                Triangle 7 6 1
+                Triangle 2 3 8
+                Triangle 8 7 2
+                Triangle 3 4 9
+                Triangle 9 8 3
+                Triangle 4 5 10
+                Triangle 10 9 4
+                
+            ClumpEnd
+        TransformEnd
+        # LeftSide01
+        
+        TransformBegin
+            Transform  1.000000  0.000000  0.000000  0.000000  0.000000  1.000000  0.000000  0.000000  0.000000  0.000000  1.000000  0.000000  0.000000  0.000000  0.000000  1.000000
+            
+            ClumpBegin
+                Tag 3
+                Hints NULL
+                Vertex  0.000000  0.000000  2.500000 UV  0.908682  0.999750
+                Vertex  0.000000  0.000000  1.250000 UV  0.454591  0.999750
+                Vertex  0.000000  0.000000  0.000000 UV  0.000499  0.999750
+                Vertex -0.250000  0.750000  2.750000 UV  0.999501  0.500250
+                Vertex  0.000000  0.250000  1.250000 UV  0.454591  0.833250
+                Vertex  0.000000  0.250000  0.000000 UV  0.000499  0.833250
+                
+                GeometrySampling Solid
+                LightSampling Vertex
+                Ambient 0.181698  0.1 0.172547
+                Color 0.545098 0.192157 0.517647
+                Diffuse 0.545098 0.192157 0.517647
+                Specular  0.9  0.9  0.9
+                TextureModes Foreshorten
+                Texture roofedge.cmp
+                
+                Triangle 3 2 5
+                Triangle 5 6 3
+                Triangle 2 1 4
+                Triangle 4 5 2
+                
+            ClumpEnd
+        TransformEnd
+        # RightSide01
+        
+        TransformBegin
+            Transform  1.000000  0.000000  0.000000  0.000000  0.000000  1.000000  0.000000  0.000000  0.000000  0.000000  1.000000  0.000000  0.000000  0.000000  0.000000  1.000000
+            
+            ClumpBegin
+                Tag 4
+                Hints NULL
+                Vertex  15.000000  0.000000  2.500000 UV  0.908682  0.999750
+                Vertex  15.000000  0.000000  1.250000 UV  0.454591  0.999750
+                Vertex  15.000000  0.000000  0.000000 UV  0.000499  0.999750
+                Vertex  15.250000  0.750000  2.750000 UV  0.999501  0.500250
+                Vertex  15.000000  0.250000  1.250000 UV  0.454591  0.833250
+                Vertex  15.000000  0.250000  0.000000 UV  0.000499  0.833250
+                
+                GeometrySampling Solid
+                LightSampling Vertex
+                Ambient 0.181698  0.1 0.172547
+                Color 0.545098 0.192157 0.517647
+                Diffuse 0.545098 0.192157 0.517647
+                Specular  0.9  0.9  0.9
+                TextureModes Foreshorten
+                Texture roofedge.cmp
+                
+                Triangle 1 2 5
+                Triangle 5 4 1
+                Triangle 2 3 6
+                Triangle 6 5 2
+                
+            ClumpEnd
+        TransformEnd
+        # LeftRoof01
+        
+        TransformBegin
+            Transform  1.000000  0.000000  0.000000  0.000000  0.000000  1.000000  0.000000  0.000000  0.000000  0.000000  1.000000  0.000000  0.000000  0.000000  0.000000  1.000000
+            
+            ClumpBegin
+                Tag 5
+                Hints NULL
+                Vertex -0.250000  0.750000  2.750000 UV  0.999500  0.999501
+                Vertex  3.750000  0.250000  2.500000 UV  0.908683  0.000500
+                Vertex  0.000000  0.250000  1.250000 UV  0.454591  0.937063
+                Vertex  3.750000  0.250000  1.250000 UV  0.454591  0.000500
+                Vertex  0.000000  0.250000  0.000000 UV  0.000500  0.937063
+                Vertex  2.500000  1.500000  0.000000 UV  0.000500  0.312687
+                
+                GeometrySampling Solid
+                LightSampling Vertex
+                Ambient  0.1 0.158168 0.181698
+                Color 0.192157 0.47451 0.545098
+                Diffuse 0.192157 0.47451 0.545098
+                Specular  0.9  0.9  0.9
+                TextureModes Foreshorten
+                Texture tileroof.cmp
+                
+                Triangle 1 2 4
+                Triangle 4 3 1
+                Triangle 3 4 6
+                Triangle 6 5 3
+                
+            ClumpEnd
+        TransformEnd
+        # RightRoof01
+        
+        TransformBegin
+            Transform  1.000000  0.000000  0.000000  0.000000  0.000000  1.000000  0.000000  0.000000  0.000000  0.000000  1.000000  0.000000  0.000000  0.000000  0.000000  1.000000
+            
+            ClumpBegin
+                Tag 6
+                Hints NULL
+                Vertex  11.250000  0.250000  2.500000 UV  0.091318  0.000499
+                Vertex  15.250000  0.750000  2.750000 UV  0.000500  0.999500
+                Vertex  11.250000  0.250000  1.250000 UV  0.545409  0.000499
+                Vertex  15.000000  0.250000  1.250000 UV  0.545409  0.937063
+                Vertex  12.500000  1.500000  0.000000 UV  0.999500  0.312687
+                Vertex  15.000000  0.250000  0.000000 UV  0.999500  0.937063
+                
+                GeometrySampling Solid
+                LightSampling Vertex
+                Ambient  0.1 0.158168 0.181698
+                Color 0.192157 0.47451 0.545098
+                Diffuse 0.192157 0.47451 0.545098
+                Specular  0.9  0.9  0.9
+                TextureModes Foreshorten
+                Texture tileroof.cmp
+                
+                Triangle 1 2 4
+                Triangle 4 3 1
+                Triangle 3 4 6
+                Triangle 6 5 3
+                
+            ClumpEnd
+        TransformEnd
+        # FrontRoof01
+        
+        TransformBegin
+            Transform  1.000000  0.000000  0.000000  0.000000  0.000000  1.000000  0.000000  0.000000  0.000000  0.000000  1.000000  0.000000  0.000000  0.000000  0.000000  1.000000
+            
+            ClumpBegin
+                Tag 7
+                Hints NULL
+                Vertex  3.750000  0.250000  2.500000 UV  0.501498  0.999500
+                Vertex  7.500000  0.250000  2.500000 UV  2.000000  0.999500
+                Vertex  11.250000  0.250000  2.500000 UV  3.498501  0.999500
+                Vertex  3.750000  0.250000  1.250000 UV  0.501499  0.500000
+                Vertex  7.500000  0.250000  1.250000 UV  2.000000  0.500000
+                Vertex  11.250000  0.250000  1.250000 UV  3.498501  0.500000
+                Vertex  2.500000  1.500000  0.000000 UV  0.001998  0.000500
+                Vertex  7.500004  1.500000  0.000000 UV  2.000002  0.000500
+                Vertex  12.500000  1.500000  0.000000 UV  3.998002  0.000501
+                
+                GeometrySampling Solid
+                LightSampling Vertex
+                Ambient  0.1 0.158168 0.181698
+                Color 0.192157 0.47451 0.545098
+                Diffuse 0.192157 0.47451 0.545098
+                Specular  0.9  0.9  0.9
+                TextureModes Foreshorten
+                Texture tileroof.cmp
+                
+                Triangle 1 2 5
+                Triangle 5 4 1
+                Triangle 2 3 6
+                Triangle 6 5 2
+                Triangle 4 5 8
+                Triangle 8 7 4
+                Triangle 5 6 9
+                Triangle 9 8 5
+                
+            ClumpEnd
+        TransformEnd
+    ClumpEnd
+ModelEnd

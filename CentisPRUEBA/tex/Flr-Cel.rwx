@@ -1,0 +1,67 @@
+# Output from 3DSMax RenderWare File Export plug-in V1.0
+ModelBegin
+    ClumpBegin
+        # Floor
+        
+        TransformBegin
+            Transform -0.000000 -0.000000  1.000000  0.000000 -0.000000  1.000000  0.000000  0.000000 -1.000000  0.000000 -0.000000  0.000000  0.000000  0.000000 -1.250000  1.000000
+            
+            ClumpBegin
+                Tag 1
+                Hints HS Editable
+                Vertex -15.000000 -0.000001 -4.999999 UV  0.002998  2.999500
+                Vertex -15.000000 -0.000001  0.000001 UV  0.002997  4.997501
+                Vertex  0.000000 -0.000001  0.000001 UV  5.997003  4.997503
+                Vertex -0.000001 -0.000001 -4.999999 UV  5.997003  2.999501
+                Vertex -5.000000 -0.000000 -12.499998 UV  3.999002  0.002498
+                Vertex -10.000000 -0.000000 -12.499998 UV  2.001000  0.002498
+                
+                GeometrySampling Solid
+                LightSampling Vertex
+                Ambient 0.179083  0.1  0.1
+                Color    1    1    1
+                Diffuse    1    1    1
+                Specular  0.9  0.9  0.9
+                TextureModes Foreshorten
+                Texture aavflor3.cmp
+                
+                Triangle 4 2 3
+                Triangle 4 1 2
+                Triangle 4 6 1
+                Triangle 5 6 4
+                
+            ClumpEnd
+        TransformEnd
+        # Ceiling
+        
+        TransformBegin
+            Transform -0.000000 -0.000000  1.000000  0.000000 -0.000000  1.000000  0.000000  0.000000 -1.000000  0.000000 -0.000000  0.000000  0.000000  2.500000 -1.250000  1.000000
+            
+            ClumpBegin
+                Tag 2
+                Hints HS Editable
+                Vertex -15.000000 -0.000001 -4.999999 UV  0.002998  2.999500
+                Vertex -15.000000 -0.000001  0.000001 UV  0.002997  4.997501
+                Vertex  0.000000 -0.000001  0.000001 UV  5.997003  4.997503
+                Vertex -0.000001 -0.000001 -4.999999 UV  5.997003  2.999501
+                Vertex -5.000000 -0.000000 -12.499998 UV  3.999002  0.002498
+                Vertex -10.000000 -0.000000 -12.499998 UV  2.001000  0.002498
+                
+                GeometrySampling Solid
+                LightSampling Vertex
+                Ambient 0.179083  0.1  0.1
+                Color    1    1    1
+                Diffuse    1    1    1
+                Specular  0.9  0.9  0.9
+                TextureModes Foreshorten
+                Texture avceil1.cmp
+                
+                Triangle 2 4 3
+                Triangle 1 4 2
+                Triangle 6 4 1
+                Triangle 6 5 4
+                
+            ClumpEnd
+        TransformEnd
+    ClumpEnd
+ModelEnd

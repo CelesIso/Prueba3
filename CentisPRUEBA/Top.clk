@@ -1,0 +1,44 @@
+43 256 256
+103 202 65 21 SetString "Property Name" Limb "Set To" H
+103 202 65 21 SetString "Property Name" "Tile List" "Set To" "axel cassius charlie dude guru habib john jon mark ray shred tony willy"
+103 202 65 21 Animate "Frame List" heads1s*.mov
+183 202 65 21 SetString "Property Name" Limb "Set To" E
+183 202 65 21 SetString "Property Name" "Tile List" "Set To" "axel cassius charlie dude guru habib john jon mark ray shred tony willy"
+183 202 65 21 Animate "Frame List" faces1s*.mov
+103 176 65 21 SetString "Property Name" Limb "Set To" H
+103 176 65 21 SetString "Property Name" "Tile List" "Set To" "aggie amy aura avita barbra chloe jenny shanubia sonya sunshine tina zita"
+103 176 65 21 Animate "Frame List" heads2s*.mov
+183 176 65 21 SetString "Property Name" Limb "Set To" E
+183 176 65 21 SetString "Property Name" "Tile List" "Set To" "aggie amy aura avita barbra chloe jenny shanubia sonya sunshine tina zita"
+183 176 65 21 Animate "Frame List" faces2s*.mov
+103 150 65 21 SetString "Property Name" Limb "Set To" H
+103 150 65 21 SetString "Property Name" "Tile List" "Set To" "achoo creature glubber horny kangaroo leo lizard orangutan prince rap spin sty"
+103 150 65 21 Animate "Frame List" heads3s*.mov
+183 150 65 21 SetString "Property Name" Limb "Set To" E
+183 150 65 21 SetString "Property Name" "Tile List" "Set To" "achoo creature glubber kangaroo orangutan rap sty"
+183 150 65 21 Animate "Frame List" faces3s*.mov
+103 124 65 21 SetString "Property Name" Limb "Set To" H
+103 124 65 21 SetString "Property Name" "Tile List" "Set To" "birdie bluepenguin crane kiwibird macaw nightglyder pegasus penguin puffin quail toucan"
+103 124 65 21 Animate "Frame List" heads4s*.mov
+183 124 65 21 SetString "Property Name" Limb "Set To" E
+183 124 65 21 SetString "Property Name" "Tile List" "Set To" "bluepenguin pegasus penguin"
+183 124 65 21 Animate "Frame List" faces4s*.mov
+103 98 65 21 SetString "Property Name" Limb "Set To" H
+103 98 65 21 SetString "Property Name" "Tile List" "Set To" "bigfoot death demon elfin golem joker mesmerist monster ogre shamaness somgirl somguy"
+103 98 65 21 Animate "Frame List" heads5s*.mov
+183 98 65 21 SetString "Property Name" Limb "Set To" E
+183 98 65 21 SetString "Property Name" "Tile List" "Set To" "bigfoot death demon elfin golem joker mesmerist monster ogre shamaness somgirl somguy"
+183 98 65 21 Animate "Frame List" faces5s*.mov
+103 72 65 21 SetString "Property Name" Limb "Set To" H
+103 72 65 21 SetString "Property Name" "Tile List" "Set To" "barrelman bitman boxman cartoonman drummajor elf graduate hotep loopy pilgrim roundman"
+103 72 65 21 Animate "Frame List" heads6s*.mov
+183 72 65 21 SetString "Property Name" Limb "Set To" E
+183 72 65 21 SetString "Property Name" "Tile List" "Set To" "barrelman drummajor elf hotep loopy roundman"
+183 72 65 21 Animate "Frame List" faces6s*.mov
+12 20 23 31 Wear Value qqq
+41 20 25 31 Wear Value hhh
+73 20 25 31 Wear Value ddd
+106 20 25 31 Wear Value 000
+139 20 29 31 Wear Value DDD
+176 20 29 31 Wear Value HHH
+214 20 32 31 Wear Value QQQ
